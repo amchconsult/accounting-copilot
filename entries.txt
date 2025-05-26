@@ -1,0 +1,5 @@
+{"id":1,"journal_date":"2025-05-26","account_id":101,"amount_debt":500.25,"amount_credit":500.25,"total":0.0,"reconciled":false,"isdeleted":"no"}
+{"id":2,"journal_date":"2025-05-26","account_id":105,"amount_debt":1000.0,"amount_credit":1000.0,"total":0.0,"reconciled":false,"isdeleted":"no"}
+{"id":3,"journal_date":"2025-05-26","account_id":103,"amount_debt":400.0,"amount_credit":400.0,"total":0.0,"reconciled":false,"isdeleted":"yes"}
+{"id":4,"journal_date":"2025-05-26","account_id":103,"amount_debt":400.0,"amount_credit":350.0,"total":50.0,"reconciled":false,"isdeleted":"no"}
+{"id":5,"journal_date":"2025-05-26","account_id":104,"amount_debt":1000.0,"amount_credit":1500.0,"total":-500.0,"reconciled":false,"isdeleted":"no"}
